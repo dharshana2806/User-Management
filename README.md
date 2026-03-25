@@ -1,16 +1,32 @@
-# User Management System
+# RISE 4.0 Project Submission
 
-## Description
-This is a full stack web application for user registration, login, and role-based access control using MERN stack.
+## 👩‍💻 Intern Details
+- **Name:** Dharshana S  
+- **Intern ID:** TS-RISE-FSD-2603722  
 
-## Features
-- User Registration
-- User Login
-- JWT Authentication
-- Profile Management
-- Dashboard
+---
 
-## Documentation
-You can view the full project documentation here:
+## 📌 Project Title
+User Management System
 
-[View Documentation](./User Management System.pdf)
+---
+
+## 📖 Description
+This is a full-stack web application for user registration, login, and role-based access control using the MERN stack.
+
+---
+
+## 🚀 Features
+- User Registration  
+- User Login  
+- JWT Authentication  
+- Profile Management  
+- Dashboard  
+
+---
+
+## 📄 Documentation
+[View Documentation](./User_Management_System.pdf)
+
+---
+
